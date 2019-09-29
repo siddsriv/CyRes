@@ -5,3 +5,6 @@ Some functionalities:
 - Reference Management
 - My Publications (for a user)
 - Search for all papers in a university (Relational Database provided)
+
+## Link
+https://www.youtube.com/watch?v=cTlet1Kz6Gc
